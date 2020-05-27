@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 permalink: /about/index.html
 title: About me
 description: 
