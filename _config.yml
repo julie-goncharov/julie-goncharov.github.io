@@ -28,14 +28,12 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Recent work
+    url: /recent-work
   - title: About
     url: /about
-  - title: Github
-    url: https://github.com/ColeTownsend/Balzac-for-Jekyll
-    external: true
-  - title: Cole Who?
-    url: http://coletownsend.com
-    external: true
+  - title: i^2
+    url: /i^2
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
