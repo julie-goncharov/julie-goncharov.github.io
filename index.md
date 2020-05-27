@@ -1,7 +1,7 @@
 ---
 layout: home
-title: "Recent Posts"
-tags: [Jekyll, theme, responsive, blog, template]
+title: "Conferences & Workshops"
+tags: [conferences, workshop, slides, poster, handouts]
 image:
-  feature: typewriter.jpg
+  feature: 
 ---
