@@ -28,8 +28,6 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Recent work
-    url: /recent-work
   - title: About
     url: /about
   - title: i^2
