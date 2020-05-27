@@ -1,20 +1,20 @@
-title:            Balzac
-tagline:          A beautiful theme.
-description:      Describe your website.
+title:            Julie Goncharov
+tagline:          linguistic profile
+description:      theoretical linguistics, semantics, pragmatics, intentions, intentionality
 canonical: http://jekyll.gtat.me
 
 # Owner/author information
 owner:
-  name:           Cole Townsend
-  avatar:         avatar.png
-  bio:            "Aesthete & Athlete"
-  email:          cole@coletownsend.com
-  twitter:        twnsndco
-  github:         coletownsend
-  instagram:      ctrunsthis
-  dribbble:       coletownsend
-  disqus:         balzac
-  location:       "Buffalo, NY"
+  name:          Julie Goncharov
+  avatar:         
+  bio:            "Theoratical Linguist"
+  email:          julie.goncharov@gmail.com
+  twitter:        @GoncharovJulie
+  github:         
+  instagram:      
+  dribbble:       
+  disqus:         
+  location:       "Maple, ON"
   # Plug in your disqus shortname!
 
 tools:
