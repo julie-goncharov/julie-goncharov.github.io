@@ -1,10 +1,10 @@
 ---
-layout: post-no-feature
+layout: page
 permalink: /about/index.html
 title: About me
 description: 
 tags: [about, Julie, Goncharov, linguist, semantics, pragmatics, intentions, intentionality]
-category: articles
+category: page
 image:
 feature: 
 ---
