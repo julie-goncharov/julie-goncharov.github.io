@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: post-no-feature
 permalink: /about/index.html
 title: About me
 description: Julie Goncharov is a theoretical linguist interested in semantics and pragmatics of natural language as well as how intentions are represented in languages.
