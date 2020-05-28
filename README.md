@@ -6,7 +6,7 @@ Meta data (url, email, twitter, etc.) are contained in ``_config.yml`` and can b
 
 ## Navigation files
 
-* **Recent work** is a home tab. Update in "recent-work.md".
+* **Recent work** is a home tab. Update in "index.md".
 * **About** Update in "about.md"
 * **i^2** is for Intentionality Institute. Update in "i^2.md"
 
