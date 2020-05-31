@@ -1,12 +1,12 @@
 ---
-layout: post-no-feature
-title: "Dynamic presupposition of want and PSIs - SALT30"
-description: "add description here"
+layout: post-light-feature
+title: SALT 30
+description: "Dynamic presupposition of want and polarity sensitivity."
+categories: articles
 comments: true
-category: articles
+date: 2020-08-17
+image: 
+feature: 
 ---
 
-tba
-
- ![Drawing A]({{ site.url }}/images/money.jpg)
- 
+The abstract for my presentation can be found [here](/docs/want_and_PSIs-SALT30abstract.pdf).
