@@ -10,13 +10,13 @@ image:
 
 ### 2020 
 
-* The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50 
-
-* Intentionality Effect in Imperatives. In Proceedings of FASL 27, Stanford University meeting, May 4-6 2018. Michigan Slavic Publications. [pdf](/docs/Goncharov_2020-fasl27.pdf)
+* The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50.
 
 * Whom to oblige? In Advances in formal Slavic linguistics 2017, eds. L. Marušič, P. Mišmaš, & R. Žaucer. Berlin: Language Science Press. [pdf](/docs/Goncharov_2020-WhomToOblige.pdf)
 
 * Epistemic comparatives and other expressions of speaker’s uncertainty (joint with Monica A. Irimia) In Advances in formal Slavic linguistics 2017, eds. L. Marušič, P. Mišmaš, & R. Žaucer. Berlin: Language Science Press. [pdf](/docs/Goncharov_Irimia_2020-EpistEvid.pdf)
+
+* Intentionality Effect in Imperatives. In Proceedings of FASL 27, Stanford University meeting, May 4-6 2018. Michigan Slavic Publications. [pdf](/docs/Goncharov_2020-fasl27.pdf)
 
 ### 2019
 
@@ -29,7 +29,7 @@ image:
 
 ### 2017
 
-* Samyj in fragment answers. In Formal Approaches to Slavic Linguistics The NYU Meeting 2015, eds. Oseki Y., M. Esipova, & S. Harves Michigan Slavic Publications, Ann Arbor, 156-180. [pdf](link)
+* Samyj in fragment answers. In Formal Approaches to Slavic Linguistics The NYU Meeting 2015, eds. Oseki Y., M. Esipova, & S. Harves Michigan Slavic Publications, Ann Arbor, 156-180. [pdf](/docs/Goncharov_2017-samyj.pdf)
 
 ### 2016
 
@@ -39,6 +39,6 @@ image:
 
 * P-doubling in split PPs and information structure. Linguistic Inquiry, 46(4): 731-742. [pdf](link)
 
-* About many. In Formal Approaches to Slavic Linguistics: The first Berkeley Meeting, eds. Szajbel-Keck M., R. Burns & D. Kavitskaya. Ann Arbor: Michigan Slavic Publications, 99-121. [pdf]()
+* About many. In Formal Approaches to Slavic Linguistics: The first Berkeley Meeting, eds. Szajbel-Keck M., R. Burns & D. Kavitskaya. Ann Arbor: Michigan Slavic Publications, 99-121. [pdf](/docs/Goncharov_2015-about-many.pdf)
 
 * In Search of Reference: The case of the Russian adjectival intensifier ‘samyj’, dissertation, University of Toronto. [pdf]()
