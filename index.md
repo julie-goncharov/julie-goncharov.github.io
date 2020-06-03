@@ -10,7 +10,7 @@ image:
 
 ### 2020 
 
-* The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50 
+* The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50 ~pdf tba~
 
 * Intentionality Effect in Imperatives. In Proceedings of FASL 27, Stanford University meeting, May 4-6 2018. Michigan Slavic Publications. [pdf](/docs/Goncharov_2020-fasl27.pdf)
 
@@ -21,24 +21,24 @@ image:
 ### 2019
 
 * Time matters: the role of temporal boundaries in NPI licensing (joint with Lavi Wolf)
-   Amsterdam Colloquium, University of Amsterdam, the Netherlands. [pdf]() 
+   Amsterdam Colloquium, University of Amsterdam, the Netherlands. [pdf](/docs/Goncharov_Wolf_2019-ACtime_matters.pdf) 
 
 ### 2018
 
-* Epistemic Comparatives: A Cross-linguistic Investigation (joint with M. A. Irimia) Proceedings of the 35th WCCFL, Cascadilla Press, 169-176. [pdf]()
+* Epistemic Comparatives: A Cross-linguistic Investigation (joint with M. A. Irimia) Proceedings of the 35th WCCFL, Cascadilla Press, 169-176. [pdf](/docs/Goncharov_Irimia_2017-WCCFL.pdf)
 
 ### 2017
 
-* Samyj in fragment answers. In Formal Approaches to Slavic Linguistics The NYU Meeting 2015, eds. Oseki Y., M. Esipova, & S. Harves Michigan Slavic Publications, Ann Arbor, 156-180. [pdf](link)
+* Samyj in fragment answers. In Formal Approaches to Slavic Linguistics The NYU Meeting 2015, eds. Oseki Y., M. Esipova, & S. Harves Michigan Slavic Publications, Ann Arbor, 156-180. ~pdf tba~
 
 ### 2016
 
-* Binding without Agree. Semantics-Syntax Interface, 3(1), 49-72. [pdf](link)
+* Binding without Agree. Semantics-Syntax Interface, 3(1), 49-72. [pdf](/docs/Goncharov_2016-SSI3(1).pdf)
 
 ### 2015
 
-* P-doubling in split PPs and information structure. Linguistic Inquiry, 46(4): 731-742. [pdf](link)
+* P-doubling in split PPs and information structure. Linguistic Inquiry, 46(4): 731-742. [pdf](/docs/Goncharov_2015.pdf)
 
-* About many. In Formal Approaches to Slavic Linguistics: The first Berkeley Meeting, eds. Szajbel-Keck M., R. Burns & D. Kavitskaya. Ann Arbor: Michigan Slavic Publications, 99-121. [pdf]()
+* About many. In Formal Approaches to Slavic Linguistics: The first Berkeley Meeting, eds. Szajbel-Keck M., R. Burns & D. Kavitskaya. Ann Arbor: Michigan Slavic Publications, 99-121. ~pdf tba~
 
-* In Search of Reference: The case of the Russian adjectival intensifier ‘samyj’, dissertation, University of Toronto. [pdf]()
+* In Search of Reference: The case of the Russian adjectival intensifier ‘samyj’, dissertation, University of Toronto. [pdf](/docs/Goncharov_2015_PhD_thesis.pdf)
