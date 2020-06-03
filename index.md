@@ -1,5 +1,5 @@
 ---
-layout: recent-work
+layout: post-index
 title: "Recent work"
 tags: [conference, workshop, slides, poster, handouts, paper, article]
 image:
