@@ -3,7 +3,7 @@
 {% highlight html linenos %}
 
 <figure>
-	<img src="/pics/intentional-stance.pdf">
+	<img src="intentional-stance.pdf">
 	<figcaption>Toster's beliefs.</figcaption>
 </figure>
 
