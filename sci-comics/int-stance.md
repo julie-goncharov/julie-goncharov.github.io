@@ -1,4 +1,10 @@
-# Intentional stance
+---
+layout: post-no-feature
+title: "Toster stance"
+description: "Daniel C. Dennett..."
+category: articles
+tags: [sample post, readability, test]
+---
 
 
 <figure>
