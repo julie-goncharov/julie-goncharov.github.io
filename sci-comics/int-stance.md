@@ -3,7 +3,7 @@
 {% highlight html linenos %}
 
 <figure>
-	<img src="/sci-comics/pics/intentional-stance.pdf">
+	<img src="www.julie-goncharov.github.io/sci-comics/pics/intentional-stance.pdf">
 	<figcaption>Toster's beliefs.</figcaption>
 </figure>
 
