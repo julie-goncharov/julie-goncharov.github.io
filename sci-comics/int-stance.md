@@ -3,8 +3,8 @@
 {% highlight html linenos %}
 
 <figure>
-	<img src="/pics/intentional-stance">
-	<figcaption>Caption describing these two images.</figcaption>
+	<img src="/pics/intentional-stance.pdf">
+	<figcaption>Toster's beliefs.</figcaption>
 </figure>
 
 {% endhighlight %}
