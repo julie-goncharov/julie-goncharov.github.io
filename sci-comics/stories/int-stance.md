@@ -7,7 +7,7 @@ tags: [intentions, intentional stance, Dennett, comics, accidental, toster, Juli
 ---
 
 <figure>
-	<img src="/sci-comics/pics/intent-stance.png">
+	<img src="/sci-comics/pics/int-stance.png">
 </figure>
 
 
