@@ -6,6 +6,6 @@ category: articles
 tags: [intentions, comics, accidental, Julie, Goncharov]
 ---
 
-- [I have a dream...](/sci-comics/int-stance.md)
-- [Some water?](/sci-comics/int-water.md)
+- [I have a dream...](/sci-comics/int_stance.md)
+- [Some water?](/sci-comics/int_water.md)
 
