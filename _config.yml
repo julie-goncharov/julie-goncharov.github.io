@@ -28,10 +28,10 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Intentionality in language
+    url: /intentionality
   - title: About
     url: /about
-  - title: i^2
-    url: /i^2
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York

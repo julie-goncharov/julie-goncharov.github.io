@@ -6,10 +6,10 @@ category: articles
 tags: [intentions, water, comics, accidental, fish, Julie, Goncharov]
 ---
 
-
 <figure>
-	<img src="/sci-comics/int-water.png">
+	<img src="/sci-comics/pics/int-water.png">
 </figure>
+
 
 
 For instance, in St’ ́at’imcets/Lillooet (Salish language spoken in southern British Columbia), 

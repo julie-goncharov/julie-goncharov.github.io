@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-permalink: /i^2/index.html
+permalink: /intentiona/index.html
 title: Intentionality in language
 description: 
 tags: [linguistics, semantics, pragmatics, intentions, intentionality, philosophy, clinical, children, psychology, law, weakness of will, epistemology, belief update, belief revisions, luck, accidental, action, AI, maching learning]
@@ -24,9 +24,4 @@ It would seem that understanding how natural languages express intentionality is
 > Why is it encoded in these particular ways?
 
 The first question can be addressed by creating a systematic comprehensive catalogue of linguistic manifestations of intentionality across different languages. This catalogue will be useful not only to theoretical linguists interested in the topic, but also to researchers in applied linguistics (NLP, machine-learning, etc.), experimental philosophy, and diagnostic psychology. The second question can be addressed by developing a theoretical model that explains the effect of interpreting an action as intentional or accidental on the meaning of the sentence and all its composite parts. This model will be an integral part of our representation of the language faculty since manifestations of intentionality have been discovered in different domains of the grammar with no straightforward theoretical dependences.
-
-### Accidental comics
-
-[I have a dream...](/sci-comics/int-stance.md) / 
-[Some water?](/sci-comics/int-water.md)
 

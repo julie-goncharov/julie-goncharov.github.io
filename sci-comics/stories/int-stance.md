@@ -6,10 +6,10 @@ category: articles
 tags: [intentions, intentional stance, Dennett, comics, accidental, toster, Julie, Goncharov]
 ---
 
-
 <figure>
-	<img src="/sci-comics/intentional-stance.png">
+	<img src="/sci-comics/pics/intent-stance.png">
 </figure>
+
 
 We use physical stance to predict behaviour of a stone when we throw it into the air (pulled by gravity, it will, most likely, fall down). Design stance is used to predict behaviour of designed objects like an alarm clock or a toster (as designed, unfortunately, alarm clocks ring). A swifter (although riskier) strategy is to assign beliefs, desires, and rationality to humans, animals, and things. May save your life if you face a lion!
 
