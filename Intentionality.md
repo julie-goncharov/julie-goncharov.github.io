@@ -1,6 +1,6 @@
 ---
 layout: post-no-feature
-permalink: /intentiona/index.html
+permalink: /intentionality/index.html
 title: Intentionality in language
 description: 
 tags: [linguistics, semantics, pragmatics, intentions, intentionality, philosophy, clinical, children, psychology, law, weakness of will, epistemology, belief update, belief revisions, luck, accidental, action, AI, maching learning]
