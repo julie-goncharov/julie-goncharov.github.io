@@ -19,7 +19,7 @@ I received my degree in theoretical linguistics from  [University of Toronto](ht
 
 This site is a light version of a classic academic website. For more information, you can take a look at my [CV](/docs/Julie_Goncharov_cv.pdf). If you have any comments, requests, or questions about any of the material published here, you are welcome to contact me directly!
 
-[Just for fun!](https://jugonch.github.io)
+
 
 
 
