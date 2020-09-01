@@ -25,5 +25,5 @@ It would seem that understanding how natural languages express intentionality is
 
 The first question can be addressed by creating a systematic comprehensive catalogue of linguistic manifestations of intentionality across different languages. This catalogue will be useful not only to theoretical linguists interested in the topic, but also to researchers in applied linguistics (NLP, machine-learning, etc.), experimental philosophy, and diagnostic psychology. The second question can be addressed by developing a theoretical model that explains the effect of interpreting an action as intentional or accidental on the meaning of the sentence and all its composite parts. This model will be an integral part of our representation of the language faculty since manifestations of intentionality have been discovered in different domains of the grammar with no straightforward theoretical dependences.
 
-A list of linguistic phenomena sensitive to the degree of agency and intentions can be found [here](list_of_phenomena.pdf).
+A list of linguistic phenomena sensitive to the degree of agency and intentions can be found [here](/docs/list_of_phenomena.pdf).
 
