@@ -8,9 +8,15 @@ image:
 
 
 
-### 2020 
+#### 2020 
 
-* The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50.
+* Dynamic presupposition of 'want' and polarity sensitivity. Proceedings of SALT 30. [slides](/docs/dynamic_psp_of_want_and_polarity_sensitivity_SALT2020slides.pdf)
+
+* Decisive modality and intentionality effect, submitted to Canadian Journal of Linguistics. [draft](/docs/decisive_modality_and_intentions_draft.pdf)
+
+* Intentionality in the grammar: Three puzzles about polarity sensitive items in infinitives, submitted to Natural Language and Linguistic Theory. [draft](/docs/three_puzzles_draft.pdf)
+
+* The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50. [pdf](/docs/Goncharov_Wolf_NELS50proceedings.pdf)
 
 * Whom to oblige? In Advances in formal Slavic linguistics 2017, eds. L. Marušič, P. Mišmaš, & R. Žaucer. Berlin: Language Science Press. [pdf](/docs/Goncharov_2020-WhomToOblige.pdf)
 
@@ -18,24 +24,24 @@ image:
 
 * Intentionality Effect in Imperatives. In Proceedings of FASL 27, Stanford University meeting, May 4-6 2018. Michigan Slavic Publications. [pdf](/docs/Goncharov_2020-fasl27.pdf)
 
-### 2019
+#### 2019
 
 * Time matters: the role of temporal boundaries in NPI licensing (joint with Lavi Wolf)
    Amsterdam Colloquium, University of Amsterdam, the Netherlands. [pdf](/docs/Goncharov_Wolf_2019-ACtime_matters.pdf) 
 
-### 2018
+#### 2018
 
 * Epistemic Comparatives: A Cross-linguistic Investigation (joint with M. A. Irimia) Proceedings of the 35th WCCFL, Cascadilla Press, 169-176. [pdf](/docs/Goncharov_Irimia_2017-WCCFL.pdf)
 
-### 2017
+#### 2017
 
 * Samyj in fragment answers. In Formal Approaches to Slavic Linguistics The NYU Meeting 2015, eds. Oseki Y., M. Esipova, & S. Harves Michigan Slavic Publications, Ann Arbor, 156-180. [pdf](/docs/Goncharov_2017-samyj.pdf)
 
-### 2016
+#### 2016
 
 * Binding without Agree. Semantics-Syntax Interface, 3(1), 49-72. [pdf](/docs/Goncharov_2016-SSI3(1).pdf)
 
-### 2015
+#### 2015
 
 * P-doubling in split PPs and information structure. Linguistic Inquiry, 46(4): 731-742. [pdf](/docs/Goncharov_2015LI.pdf)
 
