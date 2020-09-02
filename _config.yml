@@ -28,7 +28,7 @@ opengraph:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Intentionality in language
+  - title: Language and intentions
     url: /intentionality
   - title: About
     url: /about
