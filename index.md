@@ -3,7 +3,7 @@ layout: recent-work
 title: "Recent work"
 tags: [conference, workshop, slides, poster, handouts, paper, article]
 image:
-  feature: on_the_hill2.jpg
+  feature: on_the_hill.jpeg
 ---
 
 
