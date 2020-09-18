@@ -8,6 +8,11 @@ image:
 
 
 
+<figure>
+	<img src="/images/on-the-hill.jpeg">
+</figure>
+
+
 #### 2020 
 
 * Dynamic presupposition of 'want' and polarity sensitivity. Proceedings of SALT 30. [slides](/docs/dynamic_psp_of_want_and_polarity_sensitivity_SALT2020slides.pdf)
