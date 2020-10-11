@@ -1,41 +1,43 @@
-<div class="push"></div>
-  <footer>
-    <aside class="wrap">
-      <ol class="prev-posts">
-        <p class="list-title">Conferences & workshops</p>
-        {% for post in site.posts | limit:3 %} <!-- for1 -->
-            <li>
-              <span class="recent-title"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title | strip_html | strip_newlines | truncate: 30 }} </a></span>
-              <span class="date">{{post.date | date: "%b %d, %Y" }}</span>
-            </li>
-        {% endfor %}
-      </ol>
-
-      <div class="social">
-        <ul>
-            <li><a id="mail" href="mailto:{{ site.owner.email }}"><span class="foot-link">Contact Me</span></a></li>
-
-            {% if site.owner.twitter %}
-            <li><a id="twit" href="http://twitter.com/{{ site.owner.twitter }}" target="_blank"><span class="foot-link">@{{ site.owner.twitter }}</span></a></li>
-            {% endif %}
-
-
-            {% if site.owner.dribbble %}
-            <li><a id="drib" href="http://dribbble.com/{{ site.owner.dribbble }}" target="_blank"><span class="foot-link">Dribbble</span></a></li>
-            {% endif %}
-        </ul>
-    </div>
-    </aside>
-    <small>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}. Images &copy; Yana Falamarz. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://jekyllthemes.org/themes/balzac">Balzac</a> theme.</small>
-  </footer>
-
-  <!-- If they're out, get some from the cellar -->
-  <script>window.jQuery || document.write('<script src="{{ site.url }}/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
-  <script src="{{ site.url }}/assets/js/retina.min.js"></script>
-
-  <!-- Custom JS -->
-  <script src="{{ site.url }}/assets/js/scripts.js"></script>
-
-
-  </body>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    p.p5 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li2 {margin: 0.0px 0.0px 12.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    li.li3 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #0000e9; -webkit-text-stroke: #0000e9}
+    li.li4 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.s2 {-webkit-text-stroke: 0px #000000}
+    span.s3 {text-decoration: underline ; font-kerning: none; color: #0000e9}
+    span.s4 {font-kerning: none; color: #000000; -webkit-text-stroke: 0px #000000}
+    span.s5 {font: 10.0px Times; text-decoration: underline ; font-kerning: none; color: #0000e9; -webkit-text-stroke: 0px #0000e9}
+    span.s6 {font: 12.0px Times; font-kerning: none}
+    ol.ol1 {list-style-type: decimal}
+    ul.ul1 {list-style-type: disc}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1"></span><br></p>
+<ol class="ol1">
+  <li class="li2"><span class="s2"></span><span class="s1">Conferences &amp; workshops<br>
+{% for post in site.posts | limit:3 %}</span></li>
+  <li class="li3"><span class="s2"><a href="file:///Users/juliegoncharov/Documents/GitHub/_includes/%7B%7B%20site.url%20%7D%7D%7B%7B%20post.url%20%7D%7D"><span class="s3">{{ post.title | strip_html | strip_newlines | truncate: 30 }} </span></a></span><span class="s4">{{post.date | date: "%b %d, %Y" }}<span class="Apple-converted-space"> </span></span></li>
+  <li class="li4"><span class="s2"></span><span class="s1">{% endfor %}<span class="Apple-converted-space"> </span></span></li>
+</ol>
+<ul class="ul1">
+  <li class="li3"><span class="s2"><a href="mailto:%7B%7B%20site.owner.email%20%7D%7D"><span class="s3">Contact Me</span></a></span></li>
+  <li class="li4"><span class="s2"></span><span class="s1">{% if site.owner.twitter %}</span></li>
+  <li class="li3"><span class="s2"><a href="http://twitter.com/%7B%7B%20site.owner.twitter%20%7D%7D"><span class="s3">@{{ site.owner.twitter }}</span></a></span></li>
+  <li class="li4"><span class="s2"></span><span class="s1">{% endif %} {% if site.owner.dribbble %}</span></li>
+  <li class="li3"><span class="s2"><a href="http://dribbble.com/%7B%7B%20site.owner.dribbble%20%7D%7D"><span class="s3">Dribbble</span></a></span></li>
+  <li class="li4"><span class="s2"></span><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></li>
+</ul>
+<p class="p5"><span class="s1">© {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com/"><span class="s5">Jekyll</span></a> using the <a href="http://jekyllthemes.org/themes/balzac"><span class="s5">Balzac</span></a> theme.</span><span class="s6"><span class="Apple-converted-space"> </span></span></p>
+</body>
 </html>

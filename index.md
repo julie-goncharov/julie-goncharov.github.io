@@ -8,11 +8,6 @@ image:
 
 
 
-<figure>
-	<img src="/images/on-the-hill.jpeg">
-</figure>
-
-
 #### 2020 
 
 * Dynamic presupposition of 'want' and polarity sensitivity. Proceedings of SALT 30. [slides](/docs/dynamic_psp_of_want_and_polarity_sensitivity_SALT2020slides.pdf)
@@ -21,11 +16,11 @@ image:
 
 * Intentionality in the grammar: Three puzzles about polarity sensitive items in infinitives, submitted to Natural Language and Linguistic Theory. [draft](/docs/three_puzzles_draft.pdf)
 
-* The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50. [pdf](/docs/Goncharov_Wolf_NELS50proceedings.pdf)
+* The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50, eds. M. Asatryan, Y. Song & A. Whitmal. Amherst: GLSA, 275-289. [pdf](/docs/Goncharov_Wolf_NELS50proceedings.pdf)
 
-* Whom to oblige? In Advances in formal Slavic linguistics 2017, eds. L. Marušič, P. Mišmaš, & R. Žaucer. Berlin: Language Science Press. [pdf](/docs/Goncharov_2020-WhomToOblige.pdf)
+* Whom to oblige? In Advances in formal Slavic linguistics 2017, eds. L. Marušič, P. Mišmaš, & R. Žaucer. Berlin: Language Science Press, 51-73. [pdf](/docs/Goncharov_2020-WhomToOblige.pdf)
 
-* Epistemic comparatives and other expressions of speaker’s uncertainty (joint with Monica A. Irimia) In Advances in formal Slavic linguistics 2017, eds. L. Marušič, P. Mišmaš, & R. Žaucer. Berlin: Language Science Press. [pdf](/docs/Goncharov_Irimia_2020-EpistEvid.pdf)
+* Epistemic comparatives and other expressions of speaker’s uncertainty (joint with Monica A. Irimia) In Advances in formal Slavic linguistics 2017, eds. L. Marušič, P. Mišmaš, & R. Žaucer. Berlin: Language Science Press, 75-95. [pdf](/docs/Goncharov_Irimia_2020-EpistEvid.pdf)
 
 * Intentionality Effect in Imperatives. In Proceedings of FASL 27, Stanford University meeting, May 4-6 2018. Michigan Slavic Publications. [pdf](/docs/Goncharov_2020-fasl27.pdf)
 

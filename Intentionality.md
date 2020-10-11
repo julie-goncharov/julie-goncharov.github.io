@@ -29,3 +29,5 @@ The first question can be addressed by creating a systematic comprehensive catal
 
 A list of linguistic phenomena sensitive to the degree of agency and intentions can be found [here](/docs/list_of_phenomena.pdf).
 
+Agency and Intentions in Language - AIL [call for papers](/docs/agency_and_intentions_workshop.pdf)
+
