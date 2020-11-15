@@ -23,21 +23,6 @@
   </style>
 </head>
 <body>
-<p class="p1"><span class="s1"></span><br></p>
-<ol class="ol1">
-  <li class="li2"><span class="s2"></span><span class="s1">Conferences &amp; workshops<br>
-{% for post in site.posts | limit:3 %}</span></li>
-  <li class="li3"><span class="s2"><a href="file:///Users/juliegoncharov/Documents/GitHub/_includes/%7B%7B%20site.url%20%7D%7D%7B%7B%20post.url%20%7D%7D"><span class="s3">{{ post.title | strip_html | strip_newlines | truncate: 30 }} </span></a></span><span class="s4">{{post.date | date: "%b %d, %Y" }}<span class="Apple-converted-space"> </span></span></li>
-  <li class="li4"><span class="s2"></span><span class="s1">{% endfor %}<span class="Apple-converted-space"> </span></span></li>
-</ol>
-<ul class="ul1">
-  <li class="li3"><span class="s2"><a href="mailto:%7B%7B%20site.owner.email%20%7D%7D"><span class="s3">Contact Me</span></a></span></li>
-  <li class="li4"><span class="s2"></span><span class="s1">{% if site.owner.twitter %}</span></li>
-  <li class="li3"><span class="s2"><a href="http://twitter.com/%7B%7B%20site.owner.twitter%20%7D%7D"><span class="s3">@{{ site.owner.twitter }}</span></a></span></li>
-  <li class="li4"><span class="s2"></span><span class="s1">{% endif %} {% if site.owner.dribbble %}</span></li>
-  <li class="li3"><span class="s2"><a href="http://dribbble.com/%7B%7B%20site.owner.dribbble%20%7D%7D"><span class="s3">Dribbble</span></a></span></li>
-  <li class="li4"><span class="s2"></span><span class="s1">{% endif %}<span class="Apple-converted-space"> </span></span></li>
-</ul>
-<p class="p5"><span class="s1">© {{ site.time | date: '%Y' }} {{ site.owner.name }}. Powered by <a href="http://jekyllrb.com/"><span class="s5">Jekyll</span></a> using the <a href="http://jekyllthemes.org/themes/balzac"><span class="s5">Balzac</span></a> theme.</span><span class="s6"><span class="Apple-converted-space"> </span></span></p>
+
 </body>
 </html>
