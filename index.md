@@ -12,10 +12,6 @@ image:
 
 * Dynamic presupposition of 'want' and polarity sensitivity. Proceedings of SALT 30. [slides](/docs/dynamic_psp_of_want_and_polarity_sensitivity_SALT2020slides.pdf)
 
-* Decisive modality and intentionality effect, submitted to Canadian Journal of Linguistics. [draft](/docs/decisive_modality_and_intentions_draft.pdf)
-
-* Intentionality in the grammar: Three puzzles about polarity sensitive items in infinitives, submitted to Natural Language and Linguistic Theory. [draft](/docs/three_puzzles_draft.pdf)
-
 * The role of time in double NPI constructions with epistemic accessibility relations  (joint with Lavi Wolf) Proceedings of NELS 50, eds. M. Asatryan, Y. Song & A. Whitmal. Amherst: GLSA, 275-289. [pdf](/docs/Goncharov_Wolf_NELS50proceedings.pdf)
 
 * Whom to oblige? In Advances in formal Slavic linguistics 2017, eds. L. Marušič, P. Mišmaš, & R. Žaucer. Berlin: Language Science Press, 51-73. [pdf](/docs/Goncharov_2020-WhomToOblige.pdf)
