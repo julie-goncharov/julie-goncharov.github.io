@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8" />
+  <title>julie goncharov | home</title>
+  <meta name="description" content="personal webpage">
+  <meta property="og:title" content="julie goncharov" />    
+  <meta property="og:url" content="https://jugonch.github.io/" /> 
+  <meta property="og:description" content="julie goncharov">     
+  <meta property="og:type" content="website" />
+  <link rel="stylesheet" href="my-site.css" type="text/css" media="screen" />
+  <link href="https://fonts.googleapis.com/css?family=Lato|Open+Sans" rel="stylesheet">
+</head>
+  <body>
+    <div class="container" >
+      <div class="row" >
+        <div id="name-div" >
+          <span id="name" >          
+            julie goncharov
+          </span>
+        </div>
+      </div>
+      <div class="row" >
+        <div id="nav" class="twelve columns">  
+          <a href="index.html">Agency and intentions in language </a> &bull;
+          <a href="recent_work.html"> Recent work </a> &bull;
+          <a href="about.html"> About</a>
+          <hr> </hr>
+        </div>
+      </div>    
+      <div class="row" >
+        <div id="content" class="nine columns" style="text-align: left;">
+          <p> A nine-month-old infant can recognize human intentions, for example, she correctly imitates intended but accidentally unfinished or distorted adult's facial movements. This is a cognitive skill that the most advanced AI technology lacks.
+          </p>
+          <p>But what are intentions and how do they manifest themselves in human behaviour? Philosophy and psychology have pondered over these questions for centuries and come to the consensus that our capacity to intend and, more importantly, recognize and share intentions of others constitutes the foundation for social behaviour.
+          </p>
+          <p>Natural languages have multiple ways to mark the presence or absence of intentions ranging from a dedicated ‘out-of-control’ morpheme in Lillooet (Salish) and different case marking in Hindi/Urdu to the availability of a co-referential interpretation and nuanced distribution of polarity sensitive indefinites in European languages.
+          </p>
+          <p>It would seem that understanding how natural languages express intentionality is a pressing task for linguistics whose goal is to explain subconscious language competence enabling humans to communicate with each other. However, expressions of intentionality in natural languages have mostly been ignored by linguists. As liguists, we need to answer the following general questions:
+          </p>
+          <p><i>How is the presence or absence of intentions encoded in natural languages?
+          </i></p>
+          <p><i>Why is it encoded in these particular ways?
+          </i></p>
+          <p>The first question can be addressed by creating a systematic comprehensive catalogue of linguistic manifestations of intentionality across different languages. This catalogue will be useful not only to theoretical linguists interested in the topic, but also to researchers in applied linguistics (NLP, machine-learning, etc.), experimental philosophy, and diagnostic psychology. The second question can be addressed by developing a theoretical model that explains the effect of interpreting an action as intentional or accidental on the meaning of the sentence and all its composite parts. This model will be an integral part of our representation of the language faculty since manifestations of intentionality have been discovered in different domains of the grammar with no straightforward theoretical dependences.
+          </p>
+        </div>
+        <div id="nav" class="three columns">
+          <a href="index.html">Description</a> <br>
+          <a href="ail/list_of_phenomena.pdf">Linguistic phenomena</a> <br>
+          <a href="https://ail-workshop.github.io/index.html">AIL workshop</a> 
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
