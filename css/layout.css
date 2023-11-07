@@ -308,7 +308,7 @@ ul.menu li a:hover, ul.menu li a.sel, ul.menu li a.sel:visited{ color:#0080ff; t
     margin-top: 30px;
 }
 
-.birthday, .birthday td {
+.birthday td {
 /*    border: none !important; */
  border: 1px solid #0080ff;
 }
