@@ -12,10 +12,16 @@
     <link rel="stylesheet" href="./css/utilities.css">
 
 		<script defer src="./js/script.js"></script>
+        <script type="text/javascript" src="./js/common.js"></script>
 	</head>
 	<body>
+        <!-- HEADER -->
+        <script type="text/javascript">
+            header ();
+        </script>
+
     <!-- NAVBAR -->
-    <div class="navbar">
+<!--    <div class="navbar">
       <a class="nav-title-link" href="./index.html">
         <span class="nav-title">Julie Goncharov</span>
         <a class="button" href="./contact_me.html">
@@ -23,7 +29,7 @@
         </a>
       </a>
     </div>
-
+-->
     <!-- MAIN PAGE CONTENT -->
     <div id="main-content">
 
@@ -43,11 +49,11 @@
                 I am a linguist at the Georg-August University of Göttingen.
                 My main areas of interest are semantics/pragmatics of natural languages and philosophy of language.
                 I am currently working as a post-doctoral researcher in a DFG-funded project "Action Sensitivity in Grammar".
-                </div>
+              </div>
             </div>
             <a class="button" id="my-work-link">
               <span class="button-text">Check out my projects</span> 
-              <image src="./assets/icons/arrow-right.svg" class="right-arrow-icon"/>
+              <image src="./assets/icons/arrowright.png" class="right-arrow-icon"/>
             </a>
         </div>
       </div>
@@ -64,9 +70,9 @@
           <div class="body-text">
             For more information about my education, teaching, and publications, please take a look at my <a href="./docs/Goncharov_cv_022023.pdf">full CV</a> (updated Februeary 2023).
           </div>
-          <a class="button" id="my-publication-link">
-            <span class="button-text">Selected publications</span> 
-            <image src="./assets/icons/arrow-right.svg" class="right-arrow-icon"/>
+          <a href='publications.html' class="button" id="my-publication-link">
+            <span class="button-text">Selected publications</span>
+            <image src="./assets/icons/arrowright.png" class="right-arrow-icon"/>
           </a>
         </div>
       </div>
@@ -91,37 +97,52 @@
             </div>
           -->
           <div class="project-card">
-            <img src="./assets/images/ail_logo_blue.png" class="project-image">
+            <img src="./assets/images/ail_logo.png" class="project-image">
             <div class="project-card-text-container">
               <div class="subheader-text project-title">Agency and Intentions in Language</div>
               <div class="body-text project-card-text">AIL is a series of annual interdisciplinary workshops on topics related to the representation of agency and intentions in natural language.</div>
             </div>
-            <a class="button" href="https://ail-workshop.github.io/">
+            <a class="button" target='_blank' href="https://ail-workshop.github.io/">
               <span class="button-text">Read more</span>
-              <image src="./assets/icons/arrow-right.svg" class="right-arrow-icon"/>
+              <image src="./assets/icons/arrowright.png" class="right-arrow-icon"/>
             </a>
           </div>
           <div class="project-card">
-            <img src="./assets/images/ASG_white.png" class="project-image">
+            <img src="./assets/images/asg_logo.png" class="project-image">
             <div class="project-card-text-container">
-              <div class="subheader-text project-title">Action Sensitivity in Grammar</div>
-              <div class="body-text project-card-text">
+                <div class="subheader-text project-title">Action Sensitivity in Grammar
+                </div>
+                <div class="body-text project-card-text">
                 The goal of the project is to  undertand why various linguistic restrictions are sensitive to the interpretation of actions as intentional versus accidental.
-              </div>
+                </div>
             </div>
-            <a class="button" href="https://uni-goettingen.de/de/vorschau_3dd0fb16351b3f7ffbd9a226d14b3a9b/652812.html">
+            <a class="button" target='_blank' href="https://uni-goettingen.de/de/vorschau_3dd0fb16351b3f7ffbd9a226d14b3a9b/652812.html">
               <span class="button-text">Read more</span>
-              <image src="./assets/icons/arrow-right.svg" class="right-arrow-icon"/>
+              <image src="./assets/icons/arrowright.png" class="right-arrow-icon"/>
             </a>
           </div>
-    </div>
-    </div>
+          <div class="project-card">
+            <img src="./assets/images/AIAi_prog.png" class="project-image">
+            <div class="project-card-text-container">
+                <div class="subheader-text project-title">Agency and Intentions in AI
+                </div>
+                <div class="body-text project-card-text">
+                    Agency and Intentions in Artificial Intelligence" (AIAI) builds on the success of our workshop series "Agency and Intentions in Language" (AIL), which  brings together scholars in theoretical linguistics, philosophy, and psychology who are interested in questions related to agency, intentions, reasoning about actions, and causation. AIAI aims at extending this interdisciplinary theoretical discussion of fundamental principles underlying human-human interaction to human-machine interaction, broadly construed.
+                </div>
+            </div>
+            <a class="button" target='_blank' href="https://ail-workshop.github.io/aiai-conference">
+              <span class="button-text">Read more</span>
+              <image src="./assets/icons/arrowright.png" class="right-arrow-icon"/>
+            </a>
+          </div>
+        </div>
+      </div>
 
 	<!-- SELECTED PUBLICATIONS -->
 	<!---
 	  <p>Goncharov, Julie. 2020. Title. <i>Name</i> (<a href="./docs/Goncharov_*.pdf">pdf</a>)</p>
 	-->
-      <div id="my-publication-section">
+<!--      <div id="my-publication-section">
         <span class="subheader-text">Selected publications</span>
         <div class="publications-section-content">
           <div class="body-text">
@@ -141,14 +162,21 @@
           <p>Goncharov, Julie. 2015. P-doubling in split PPs and information structure. <i>Linguistic Inquiry</i>, 46(4): 731-742. (<a href="./docs/Goncharov_2015doubling_LI.pdf">pdf</a>)</p>
 		  <p>Goncharov, Julie. 2015. About many. In <i>Formal Approaches to Slavic Linguistics: The first Berkeley Meeting</i>, eds. Szajbel-Keck M., R. Burns & D. Kavitskaya. Ann Arbor: Michigan Slavic Publications, 99-121. (<a href="./docs/Goncharov_2015many_FASL.pdf">pdf</a>)</p>
           <p>Goncharov, Julie. 2015. In Search of Reference: The case of the Russian adjectival intensifier ‘samyj’, dissertation, University of Toronto. (<a href="./docs/Goncharov_2015thesis.pdf">pdf</a>)</p>
-      </div>
-
+-->
+          </div>
+        </div>
+    </div>
+</div>
     <!-- FOOTER -->
-    <div id="footer">
+<!--    <div id="footer">
       <a class="icon-link" href="mailto:julie.goncharov@uni-goettingen.de">
         <image src="./assets/icons/mail.svg" class="footer-icon"/>
       </a>
     </div>
-
+-->
+    <!-- FOOTER -->
+    <script type="text/javascript">
+        footerContainer();
+    </script>
 	</body>
 </html>
