@@ -60,7 +60,7 @@ function footerContainer(){
           write("</div>");
           write("<div>");
                   write("<a target='_blank' href='https://ail-workshop.github.io/'>");
-                      write("<img src='./assets/images/AIAi_prog.png' style='width:120px'>");
+                      write("<img src='./assets/images/AIAI_prog.png' style='width:120px'>");
                   write("</a>");
           write("</div>");
           write("<div class='project-card-text-container'>");
