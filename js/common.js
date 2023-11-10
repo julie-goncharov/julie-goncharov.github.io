@@ -14,7 +14,7 @@ function header () {
                     write("</li>")
                     write("<li><a href='projects.html'>Projects</a>");
                     write("</li>")
-                    write("<li><a href='contact_me.html'>Contact me</a>");
+                    write("<li><a href='contact.html'>Contact</a>");
                     write("</li>")
  //                   write("<li><a href='mailto:julie.goncharov@uni-goettingen.de'>Contact us</a>");
  //                   write("</li>")
