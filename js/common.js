@@ -38,7 +38,32 @@ function header () {
 function footerContainer(){
       with(document){
         write("<div id='footerMain'>");
-            write("<div>");
+            write("<div style='display: inline-block; width:100%;'>");
+                write("<div style='float: left; font-family: Georgia;'>");
+                    write("<span>");
+                        write(" QUICK LINKS");
+                    write("</span>");
+                    write("<br><a href='projects.html'>");
+                        write("Projects");
+                    write("</a>");
+                    write("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;");
+                    write("<a href='contact.html'>");
+                        write("Contact");
+                    write("</a>");
+                write("</div>");
+                write("<div style='float: right; font-family: Georgia; font-size: 12px;'>");
+                    write("<div style='display: flex;'>");
+                        write("<a class='icon-link' href='mailto:julie.goncharov@uni-goettingen.de'>");
+                            write("<img src='./assets/icons/mail.svg' class='footer-icon'>");
+                        write("</a>");
+                    write("</div>");
+                    write("<div style=' clear; both;'>");
+                        write("&copy; 2023 Julie Goncharov. ALL RIGHTS RESERVED.");
+                    write("</div>");
+                write("</div>");
+          write("</div>");
+
+/*            write("<div>");
                     write("<a target='_blank' href='https://ail-workshop.github.io/'>");
                         write("<img src='./assets/images/ail_logo.png' style='width:120px'>");
                     write("</a>");
@@ -68,7 +93,7 @@ function footerContainer(){
                       write("Agency and Intentions in AI");
                   write("</a>");
           write("</div>");
- 
+*/
         write("</div>");
           }
   }

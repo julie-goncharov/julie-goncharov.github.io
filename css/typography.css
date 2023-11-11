@@ -1,5 +1,8 @@
 body {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: Din, Georgia, serif;
+  font-size: 1rem;
+  line-height: 1.75;
+/*  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; */
 }
 
 .nav-title {
@@ -25,19 +28,22 @@ body {
 .subheader-text {
   font-size: 20px;
   font-weight: 700;
+  text-align: center;
 }
 
 .body-text {
   font-size: 16px;
   font-weight: 500;
+  text-align: justify;
 }
 
 .project-card-text {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+    font-size:13px;
 }
 
 .project-title {
