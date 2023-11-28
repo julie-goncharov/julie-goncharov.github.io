@@ -22,7 +22,7 @@ usebibtex: true
           <span class="if title"><span class="title"></span></span>
       </div>
       <div class="pubauthors">
-          <span class="author"></span>
+          <span class="author" conjunction=" and"></span>
           <span class="if journal"><em><span class="journal"></span></em>,</span>
           <span class="if booktitle">In <em><span class="booktitle"></span></em>,</span>
           <span class="if series">In <em><span class="series"></span></em>,</span>
