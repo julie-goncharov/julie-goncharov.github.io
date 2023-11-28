@@ -5,7 +5,7 @@ layout: default
   <!-- PORTFOLIO HEADER -->
   <div id="portfolio-header">
     <div id="portfolio-header-image-container">
-      <img src="{{ '/' | relative_url }}/assets/images/{{ page.mypicture }}" class="portfolio-header-image">    
+      <img src="/assets/images/{{ page.mypicture | relative_url }}" class="portfolio-header-image">    
     </div>
 
     <div id="portfolio-header-text-container">
@@ -22,9 +22,9 @@ layout: default
             {% for proj in projects limit: 3 %}
             <tr>
                 <td class="proj-left" align="center" valign="top">
-                 <a href="{{ '/' | relative_url }}/projects" title="My Projects">
+                 <a href="{{ '/projects' | relative_url }}" title="My Projects">
                     <span class="proj-logo">
-                        <img src="{{ '/' | relative_url }}/assets/images/{{ proj.logo }}" />
+                        <img src="/assets/images/{{ proj.logo  | relative_url }}" />
                     </span>
                     {{ proj.short }}
                  </a>
