@@ -1,0 +1,43 @@
+---
+layout: default
+---
+
+  <!-- PORTFOLIO HEADER -->
+  <div id="portfolio-header">
+    <div id="portfolio-header-image-container">
+      <img src="{{ '/' | relative_url }}/assets/images/{{ page.mypicture }}" class="portfolio-header-image">    
+    </div>
+
+    <div id="portfolio-header-text-container">
+      <div>{{ page.sections[0] | textilize }}</div>
+    </div>
+  </div>
+
+<div>
+    {{ content }}
+    <h2>Recent Projects</h2>
+    <table class="proj-card" cellspacing="0" cellpadding="0">
+        <tbody>
+            {% assign projects = site.projects | sort: 'num' | reverse %}
+            {% for proj in projects limit: 3 %}
+            <tr>
+                <td class="proj-left" align="center" valign="top">
+                 <a href="{{ '/' | relative_url }}/projects" title="My Projects">
+                    <span class="proj-logo">
+                        <img src="{{ '/' | relative_url }}/assets/images/{{ proj.logo }}" />
+                    </span>
+                    {{ proj.short }}
+                 </a>
+                </td>
+                <td class="proj-right">
+                    <h2>{{ proj.title }}</h2>
+                    <div class="proj-card-text">{{ proj.excerpt }}</div>
+                   <a target='_blank' href="{{ proj.ref }}" title="Show Project">
+                          [WEBSITE]
+                   </a>
+                </td>
+            </tr>
+            {% endfor %}
+         </tbody>
+    </table>
+  </div>

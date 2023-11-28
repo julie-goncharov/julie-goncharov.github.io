@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{{ content}}
+{% assign projects = site.projects | sort: 'num' | reverse %}
+{% for proj in projects %}
+<div>
+  <table class="proj-card" cellspacing="0" cellpadding="0">
+    <tbody>
+        <tr>
+            <td class="proj-left" align="center" valign="top">
+             <a target='_blank' href="{{ proj.ref }}" title="Show Project">
+                <span class="proj-logo">
+                    <img src="{{ '/' | relative_url }}/assets/images/{{ proj.logo }}" class="project-image" />
+                </span>
+                {{ proj.short }}
+             </a>
+            </td>
+            <td class="proj-right">
+                {{ proj.period }}
+                <h2>{{ proj.title }}</h2>
+                   <div>{{ proj.excerpt }}</div>
+             <a target='_blank' href="{{ proj.ref }}" title="Show Project">
+                    [WEBSITE]
+             </a>
+           </td>
+        </tr>
+    </tbody>
+</table>
+</div>
+{% endfor %}

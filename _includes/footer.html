@@ -1,0 +1,23 @@
+<footer class="site-footer h-card">
+  <data class="u-url" href="{{ '/' | relative_url }}"></data>
+
+  <div class="wrapper">
+    <div style='display: inline-block; width:100%;'>
+        <div class="footer-nav" style='float: left;'>
+            {% include navigation.html %}
+        </div>
+        <div style=' clear; both; color: #828282;float: right; font-size: 12px;'>
+            &copy;&nbsp;
+            {%- if site.copyright -%}
+            {{ site.copyright | escape }}
+            {%- endif -%}
+            &nbsp;
+            {%- if site.author -%}
+              {{ site.author | escape }}
+            {%- else -%}
+              {{ site.title | escape }}
+            {%- endif -%}&nbsp;ALL RIGHTS RESERVED.
+        </div>
+    </div>
+  </div>
+</footer>
