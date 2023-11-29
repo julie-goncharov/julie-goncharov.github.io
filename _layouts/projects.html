@@ -11,7 +11,7 @@ layout: default
             <td class="proj-left" align="center" valign="top">
              <a target='_blank' href="{{ proj.ref }}" title="Show Project">
                 <span class="proj-logo">
-                    <img src="{{ '/' | relative_url }}/assets/images/{{ proj.logo }}" class="project-image" />
+                    <img src="/assets/images/{{ proj.logo  | relative_url }}" class="project-image" />
                 </span>
                 {{ proj.short }}
              </a>
