@@ -108,3 +108,64 @@ table {
     margin-bottom: 10px;
     font-size: 20px;
 }
+
+/* Extra Extra large devices (large laptops and desktops, 1200px and below) */
+/*
+@media only screen and (max-width: 1600px) {
+  #main-content {
+    margin: 25px 275px;
+  }
+}
+*/
+
+/* Extra large devices (large laptops and desktops, 1200px and below) */
+/*
+@media only screen and (max-width: 1200px) {
+  #main-content {
+    margin: 25px 175px;
+  }
+}
+*/
+
+/* Large devices (laptops/desktops, 1000px and below) */
+/*
+@media only screen and (max-width: 1000px) {
+  #main-content {
+    margin: 25px 75px;
+  }
+}
+*/
+
+/* Small devices (portrait tablets and large phones, 800px and below) */
+@media only screen and (max-width: 800px) {
+  #main-content {
+    margin: 25px 50px;
+  }
+
+  #portfolio-header {
+    flex-direction: column;
+  }
+
+  .project-card {
+    max-width: calc((100% - 16px) / 2);
+  }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and below) */
+@media only screen and (max-width: 600px) {
+  #main-content {
+    margin: 125px 20px;
+  }
+
+  .project-card {
+    max-width: 100%;
+  }
+}
+/* MENU */
+
+.ui-section-header--nav-link {
+  font-size: var(--ui-typography-h3);
+  padding: .5rem;
+  text-decoration: none;
+}
+
