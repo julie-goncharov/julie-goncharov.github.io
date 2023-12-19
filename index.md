@@ -3,7 +3,7 @@ layout: home
 mypicture: mypic.png
 sections:
 - Julie Goncharov is a post-doctoral researcher at the Seminar for English Philology and the University Center for Text Structures at the Georg-August University in Göttingen. 
-  Her main areas of interest are semantics/pragmatics of natural languages and philosophy of language. 
+  Her main areas of interest are semantics and pragmatics of natural languages, as well as philosophy of language. 
   Her current projects revolve around questions concerning agency, intentions, reference, and their representations in language.
 ---
 ## About
