@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+<div id="main-content">
 
   <!-- PORTFOLIO HEADER -->
   <div id="portfolio-header">
@@ -13,9 +14,43 @@ layout: default
     </div>
   </div>
 
-<div>
+  <div>
     {{ content }}
+  </div>
+  <div id="my-work-section">
     <h2>Recent Projects</h2>
+
+    <div class="projects-container">
+            {% assign projects = site.projects | sort: 'num' | reverse %}
+            {% for proj in projects limit: 3 %}
+<!--          <div class="project-card">
+            <img src="/assets/images/{{ proj.logo  | relative_url }}" class="project-image">
+            <div class="project-card-text-container">
+              <div class="subheader-text project-title">{{ proj.title }}</div>
+              <div class="body-text project-card-text">{{ proj.excerpt }}</div>
+            </div>
+           <a target='_blank' href="{{ proj.ref }}" title="Show Project">
+                  [WEBSITE]
+           </a>
+          </div>   
+-->     
+          <div class="proj-card">
+            <div class="proj-left" align="center" valign="top">
+                <img src="/assets/images/{{ proj.logo  | relative_url }}" class="proj-logo">
+                    {{ proj.short }}
+            </div>
+            <div class="proj-right">
+<!--              <div class="subheader-text project-title">{{ proj.title }}</div>  -->
+                <h2>{{ proj.title }}</h2>
+              <div class="project-card-text">{{ proj.excerpt }}</div>
+                   <a target='_blank' href="{{ proj.ref }}" title="Show Project">
+                          [WEBSITE]
+                   </a>
+            </div>
+          </div>        
+            {% endfor %}
+    </div>
+<!--
     <table class="proj-card" cellspacing="0" cellpadding="0">
         <tbody>
             {% assign projects = site.projects | sort: 'num' | reverse %}
@@ -40,4 +75,6 @@ layout: default
             {% endfor %}
          </tbody>
     </table>
+-->
   </div>
+</div>
