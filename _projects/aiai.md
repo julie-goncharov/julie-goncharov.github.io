@@ -1,8 +1,8 @@
 ---
 layout: projects
 title: Agency and Intentions in AI
-authors: John Doe and Mary Jane
-period: 15-17 May 2024
+authors: Julie Goncharov and Kyle Thompson
+period: 16-17 May 2024
 short: AIAI
 num: 3
 logo: AIAI_prog.png
