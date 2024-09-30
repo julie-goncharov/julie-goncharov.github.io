@@ -1,6 +1,6 @@
 ---
 layout: home
-mypicture: mypic.png
+mypicture: mypic1.png
 sections:
 - Julie Goncharov is a post-doctoral researcher at the Seminar for English Philology and the University Center for Text Structures at the Georg-August University in Göttingen. 
   Her main areas of interest are semantics and pragmatics of natural languages, as well as philosophy of language. 
@@ -14,7 +14,7 @@ She is now a post-doctoral fellow in a DFG-funded project <a  target='_blank' re
 
 ## Full CV 
 
-Julie's full CV can be found <a target='_blank' rel="noopener noreferrer" href="./assets/docs/Goncharov_cv.pdf">here</a> (updated November 2023).
+Julie's full CV can be found <a target='_blank' rel="noopener noreferrer" href="./assets/docs/Goncharov_cv.pdf">here</a> (updated October 2024).
 
 See <a  target='_blank' rel="noopener noreferrer" href="https://spe-uca.sciencesconf.org/resource/page/id/10" id="my-publication-link">Julie's interview to OASIS3</a> (2023)
 
