@@ -266,3 +266,31 @@ table {
   -webkit-line-clamp: 1;
   -webkit-box-orient: vertical;
 }
+
+/* Quote */
+
+.quote-container {
+    position: relative;
+    padding: 20px 40px;
+  }
+  .quote-container::before { 
+    font-family: Georgia, serif;
+    content: "\201C";
+    font-size: 80px;
+    position: absolute;
+    opacity: 1.0;
+  }
+  .quote-container::before {
+    top: -20px;
+    left: 0;
+  }
+  .quote-container::after {
+    bottom: -50px;
+    right: 0;
+  }
+  .author {
+    text-align: right;
+    font-style: normal;
+  }
+
+
