@@ -2,7 +2,7 @@
 layout: home
 mypicture: mypic5.png
 quote: Language is conceived in sin and science is its redemption.
-cite: W. V. Quine
+cite: W. V. Quine "The Roots of Reference"
 ---
 
 I am interested in language as an activity that reveals human reasoning.
@@ -10,7 +10,7 @@ I take the perspective that grammatical restrictions come from two sources: pure
 In current linguistic theories, these two types of conditions are often confused, resulting in inadequate analyses and explanatory dead ends.
 
 To separate purely linguistic conditions from general reasoning, I examine grammatical phenomena with atypical pragmatic conditions (such as emphatic uses of degree modifiers and exceptional polarity licensing).
-I am especially interested in linguistic phenomena sensitive to the distinction between intentional and non-intentional actions (such as the prohibition on coreferential subjects or perfective aspect with intentional actions, or the unacceptability of words like \textit{a damn thing} with non-intentional actions).
+I am especially interested in linguistic phenomena sensitive to the distinction between intentional and non-intentional actions (such as the prohibition on coreferential subjects or perfective aspect with intentional actions, or the unacceptability of words like 'a damn thing' with non-intentional actions).
 These phenomena make a clear separation between purely linguistic  conditions and general reasoning.
 My work shows the need to redefine the role of pragmatics in the overall architecture of grammar.
 
@@ -22,7 +22,7 @@ I am currently a post-doctoral fellow in a DFG-funded project <a  target='_blank
 
 ## Full CV 
 
-My full CV can be found <a target='_blank' rel="noopener noreferrer" href="./assets/docs/Goncharov_cv.pdf">here</a> (updated October 2024).
+My full CV can be found <a target='_blank' rel="noopener noreferrer" href="./assets/docs/Goncharov_cv.pdf">here</a> (updated January 2025).
 
 Also see <a  target='_blank' rel="noopener noreferrer" href="https://spe-uca.sciencesconf.org/resource/page/id/10" id="my-publication-link">my interview to OASIS 3</a> (2023)
 

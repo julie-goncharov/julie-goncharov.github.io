@@ -270,27 +270,26 @@ table {
 /* Quote */
 
 .quote-container {
-    position: relative;
-    padding: 20px 40px;
-  }
-  .quote-container::before { 
+  position: relative;
+  padding: 20px 40px;
+
+  &::before,
+  &::after {
     font-family: Georgia, serif;
-    content: "\201C";
     font-size: 80px;
     position: absolute;
     opacity: 1.0;
   }
-  .quote-container::before {
+
+  &::before {
+    content: "\201C";
     top: -20px;
     left: 0;
   }
-  .quote-container::after {
-    bottom: -50px;
-    right: 0;
-  }
+
   .author {
     text-align: right;
     font-style: normal;
   }
-
+}
 
