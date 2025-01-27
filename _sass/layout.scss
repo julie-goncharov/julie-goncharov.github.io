@@ -272,6 +272,11 @@ table {
 .quote-container {
   position: relative;
   padding: 20px 40px;
+  font-style: italic;
+/*  color: #828282;*/
+/*  padding-left: 15px;*/
+  font-size: 18px;
+  letter-spacing: -1px;
 
   &::before,
   &::after {
@@ -291,5 +296,6 @@ table {
     text-align: right;
     font-style: normal;
   }
+
 }
 
