@@ -1,6 +1,6 @@
 ---
 layout: home
-mypicture: mypic5.png
+mypicture: mypic6.png
 quote: Language is conceived in sin and science is its redemption.
 cite: W. V. Quine "The Roots of Reference"
 ---
